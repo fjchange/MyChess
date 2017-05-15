@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/bishop_black.svg</file>
+        <file>res/bishop_white.svg</file>
+        <file>res/exp.png</file>
+        <file>res/king_black.svg</file>
+        <file>res/king_white.svg</file>
+        <file>res/knight_black.svg</file>
+        <file>res/knight_white.svg</file>
+        <file>res/pawn_black.svg</file>
+        <file>res/pawn_white.svg</file>
+        <file alias="profile">res/profile.png</file>
+        <file>res/queen_black.svg</file>
+        <file>res/queen_white.svg</file>
+        <file>res/rook_black.svg</file>
+        <file>res/rook_white.svg</file>
+        <file alias="close">res/close_icon.png</file>
+        <file alias="turn1">res/turn1.png</file>
+        <file alias="turn2">res/turn2.png</file>
+        <file>res/start.png</file>
+        <file>res/pure.jpg</file>
+        <file>res/white border.jpg</file>
+        <file>res/white tile.jpg</file>
+        <file>res/black tile.jpg</file>
+        <file>res/close.png</file>
+        <file>res/min.png</file>
+        <file>res/max.png</file>
+        <file>res/restore.png</file>
+    </qresource>
+</RCC>
